@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YNETest</string>
+    <string name="btn_start">Start</string>
+    <string name="initial_message">Press Start Button to Start Scanning</string>
+    <string name="btn_send">Send</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="network_ssid">Network SSID</string>
+    <string name="hidden_network">Hidden Network?</string>
+    <string name="connect_send"><![CDATA[Connect & Send]]></string>
+    <string name="password">Password</string>
+    <string name="scanned_data">Scanned Data</string>
+    <string name="enter_network_details">Enter Network Details</string>
+    <string name="push">Send</string>
+</resources>
